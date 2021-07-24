@@ -1,6 +1,14 @@
-# meditation_app_ui
+# Meditation App Ui
 
-A new Flutter project.
+**Daily Exercises App Ui**
+
+<img src='screenshots/screen-one.png' width='200' height='400'>
+<img src='screenshots/screen-two.png' width='200' height='400'>
+<img src='screenshots/screen-three.png' width='200' height='400'>
+
+
+**Created by AmirHossein Jahangiri**</br>
+*My artistic name is Surena*
 
 ## Getting Started
 
